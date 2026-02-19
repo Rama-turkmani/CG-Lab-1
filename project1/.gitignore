@@ -1,0 +1,19 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Build results
+x64/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.pdb
+*.exe
+*.obj
+*.log
+*.tlog
+*.idb
+*.iobj
+*.ipdb
+*.ilk
